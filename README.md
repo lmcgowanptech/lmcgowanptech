@@ -1,4 +1,4 @@
-<h1>Hi, I'm Liam! <br/><a href="[https://www.linkedin.com/in/liamfmcgowan/]">Aspiring Network Engineer</a>
+<h1>Hi, I'm Liam! <br/><a href="[https://www.linkedin.com/in/liamfmcgowan/]">Aspiring Network Engineer</a></h1>
 <h2>💻 Network & System Projects:</h2>
 
 - <b>Analyzing threats through aggregated honeynet logs</b>
