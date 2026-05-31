@@ -1,8 +1,8 @@
-<h1>Hi, I'm Liam! <br/><a href="https://github.com/joshmadakor1">Aspiring SOC Analyst</a>
-<h2>💻 Cybersecurity Projects:</h2>
+<h1>Hi, I'm Liam! <br/><a href="[https://www.linkedin.com/in/liamfmcgowan/]">Aspiring Network Engineer</a>
+<h2>💻 Network & System Projects:</h2>
 
 - <b>Analyzing threats through aggregated honeynet logs</b>
-  - [SIEM Honeynet Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM Honeynet Lab](LINK)
 
 
 
